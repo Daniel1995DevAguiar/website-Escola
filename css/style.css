@@ -602,4 +602,8 @@ a:focus {
   color: #fdfdfe;
 }
 
+.footer_section a:hover {
+  color: #000000;
+}
+
 /* end footer section*/
